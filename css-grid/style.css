@@ -1,28 +1,28 @@
 * {
-    margin: 0px;
-    padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 body {
-    font-size: 16px;
-    background-color: rgb(40, 40, 40);
-    color: white;
+  font-size: 16px;
+  background-color: rgb(40, 40, 40);
+  color: white;
 }
 
 .wrapper {
-    width: 900px;
-    margin: 3rem auto 0 auto;
+  width: 900px;
+  margin: 3rem auto 0 auto;
 }
 
 .grid-body {
-    display: grid;
-    grid-template-columns: 300px 200px 150px;
-    grid-template-rows: 50% 50%;
+  display: grid;
+  grid-template-columns: 300px 200px 150px;
+  grid-template-rows: 50% 50%;
 }
 
 .grid-item {
-    font-size: 1.5rem;
-    text-align: center;
-    border: 2px dashed rgba(255, 255, 255, 0.2);
-    padding: 2rem;
+  font-size: 1.5rem;
+  text-align: center;
+  border: 2px dashed rgba(255, 255, 255, 0.2);
+  padding: 2rem;
 }
