@@ -1,0 +1,5 @@
+id,first_name,last_name,email,gender,date_of_birth,country_of_birth,car_id,id,make,model,price
+2,Brandon,Chan,jeffanderson@example.com,Male,2001-10-25,Greece,1,1,Ford,B-Class,30840.13
+1,Abigail,Newman,melissa23@example.org,Male,1975-05-01,Turkmenistan,2,2,Isuzu,X1,10000.06
+15,Stacey,Buchanan,,Male,2013-03-03,Congo,10,10,Audi,F250 Super Duty Super Cab,10291.28
+3,Christopher,Lopez,dianaduffy@example.org,Male,1992-03-18,Liberia,,,,,
