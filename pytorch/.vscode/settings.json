@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "cmap",
+    "cuda",
+    "imshow",
+    "matplotlib",
+    "MNIST",
+    "optim",
+    "pyplot",
+    "relu",
+    "softmax",
+    "torchvision"
+  ]
+}
